@@ -1,6 +1,7 @@
 # ConfusionFlow
 
-Necessary files: 
+Necessary input 
+files: 
 - 1 config file per model
 - 1 log file per model
 
@@ -25,3 +26,11 @@ To test the dashboard with the provided demo data, run the following command:
 ```
 python confusionflow/run.py demo/model_1.json demo/config.json demo/model_2.json demo/config.json
 ```
+
+# Original Paper
+
+Publication: [https://arxiv.org/pdf/1910.00969.pdf](https://arxiv.org/pdf/1910.00969.pdf)
+
+Authors: Andreas Hinterreiter, Peter Ruch, Holger Stitz, Martin Ennemoser, Jürgen Bernard, Hendrik Strobelt, Marc Streit
+
+GitHub: [https://github.com/ConfusionFlow/confusionflow](https://github.com/ConfusionFlow/confusionflow)
