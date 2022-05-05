@@ -1,5 +1,7 @@
 # ConfusionFlow
 
+![ConfusionFlow Dashboard](https://github.com/haydenedelson/ConfusionFlowProject/blob/main/static/Screen%20Shot%202022-05-04%20at%205.09.45%20PM.png)
+
 Necessary input 
 files: 
 - 1 config file per model
