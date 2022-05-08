@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 
 from matplotlib.gridspec import GridSpec, SubplotSpec
 from matplotlib.figure import SubplotParams
-from confusion_matrix import plot_cm_data
-from precision_recall import plot_pr_data
-from accuracy import plot_acc
+from plot_confusion_matrix import plot_cm_data
+from plot_precision_recall import plot_pr_data
+from plot_accuracy import plot_acc
 from utils import get_title
 
 def create_figure():
